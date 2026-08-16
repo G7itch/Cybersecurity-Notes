@@ -1,0 +1,1 @@
+This is a repo containing my personal notes that I compiled whilst mstudying for various Cybersecurity certs. At the minute this does not contain those from CompTIA as I am still not entirely sure how their licensing works and I don't know if they would be mad at me for putting stuff out there.
